@@ -7,6 +7,7 @@ Nahida Assistant 是我为了完成学校创新创业基础写的一个自动化
 - ppt解析
 - keyboard和pyautogui的自动化
 - Prompt Engine提示词工程
+- Openai-whisper
 
 ## 部署
 部署建议使用 Python3.9 ，安装requirements。
