@@ -7,6 +7,7 @@ import moonshot
 import siliconflow
 import audio
 import ppt_shower
+from config import config
 
 
 Moonshot = moonshot.Moonshot()

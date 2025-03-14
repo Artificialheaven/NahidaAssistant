@@ -19,5 +19,9 @@ def create_audio(text, file_name):
         response.stream_to_file(speech_file_path)
 
 
+def upload_audio(text, file_name):
+
+
+
 if __name__ == "__main__":
     create_audio("你好，我的朋友。很高兴认识你。", "test.mp3")

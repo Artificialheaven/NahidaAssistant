@@ -8,7 +8,7 @@ from pathlib import Path
 
 class Moonshot:
     client = OpenAI(
-        api_key="sk-H7eLJOmPxxZ1ED07XO1IyaG24i8yW0LtGOlsfZmg0y4mRc07",
+        api_key="sk-*",
         base_url="https://api.moonshot.cn/v1",
     )
     messages = [

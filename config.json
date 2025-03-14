@@ -1,0 +1,9 @@
+{
+    "whisper": "base",
+    "siliconflow_key": "sk-*",
+    "moonshot_key": "sk-*",
+    "audio": {
+        "uri": "speech:*",
+        "siliconflow_key": "auto"
+    }
+}
